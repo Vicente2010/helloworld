@@ -1,2 +1,4 @@
 # helloworld
-just the first try at github
+Hi everyone
+
+This is my first try at github, so I'm learning
